@@ -2,7 +2,7 @@
 
 This repository is an informative directory and tool to coordinate future OpenQ hackathons that will be paid out through OpenQ.
 
-Each hackathon series is described via a GitHub issues. Look at open issues to find contests that are still open and create a submission via pull-requests to win them.
+Each hackathon series is described via GitHub issues. Check out open issues to find contests you can still enter and create a submission via pull-requests to win them.
 
 To find out more about OpenQ Hackathons:
 https://www.openq.dev/contests
@@ -21,6 +21,6 @@ https://docs.openq.dev/contest-contracts/prepare-contest-for-claim
 **Rules on Pre-existing Work**
 
 Existing projects cannot be submitted; however, you are free to start working on them as soon as the contests begins.
-If you participated in a hackathon that OpenQ was also involved in and did not manage to submit your project, you can also do so via this format if the hackathon took place during the contest period.
+If you participated in a hackathon and did not manage to submit your project, you can also do so via this format if the hackathon took place during the contest period.
 
-No work should be done on your project before the contest starts. This applies to programming, asset creation, etc. Each hack entry will be judged solely on the quality of work done during the hackathon. If a project or team is porting or continuing an existing project, you may enter but not be eligible for the price.
+No work should be done on your project before the contest starts. This applies to programming, asset creation, etc. Each hack entry will be judged solely on the quality of work done during the contest. If a project or team is porting or continuing an existing project, you may enter but not be eligible for the price.
